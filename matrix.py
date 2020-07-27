@@ -1,4 +1,5 @@
 from numpy import *
+#i love python
 
 m= array([['mon',18,20,22,17],['tue',11,18,21,18],
           ['wed',15,21,20,19],['thu',11,20,22,21],
